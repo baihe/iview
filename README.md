@@ -5,7 +5,8 @@
 </p>
 
 > 从原始仓库 Fork 出来，是因为原始仓库的一些组件缺乏或者不完备，需要从其他的仓库拿过来或者自己开发整合。
-!> 需要持续的和原始仓库保持同步。
+
+> 需要持续的和原始仓库保持同步。
 
 # iView 
 [![](https://img.shields.io/travis/iview/iview.svg?style=flat-square)](https://travis-ci.org/iview/iview) 
